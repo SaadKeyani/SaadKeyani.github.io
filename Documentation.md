@@ -1,3 +1,4 @@
+**###Installation process for Arch Linux**
 ### Console keyboard layout
 
 Find out which keyboard layout you are using and then set it using `loadkeys`:
